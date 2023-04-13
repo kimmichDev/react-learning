@@ -1,0 +1,11 @@
+.card-div{
+    width: 100px;
+    aspect-ratio: 1;
+    padding: 10px;
+    margin : 10px;
+    background: lightgreen;
+}
+
+.font{
+    font-family: sans-serif;
+}
